@@ -1,5 +1,4 @@
-# scripts
-Loon scripts
+# Loon scripts
 
 脚本仅限于自用，收集于网络，感谢各位大佬的工作。  
 [@yichahucha](https://github.com/yichahucha)  
